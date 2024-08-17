@@ -1,0 +1,12 @@
+.navbar {
+  height: 70px;
+}
+
+.nav-link {
+  color: #ffffff;
+  font-size: 1.1rem;
+}
+
+.nav-link:hover {
+  color: #cccccc;
+}
